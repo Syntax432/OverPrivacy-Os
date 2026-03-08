@@ -5,3 +5,4 @@ OverPrivacy-OS is a privacy-focused operating system designed for users who want
 OverPrivacy-OS features a clean, minimal interface focused on performance and simplicity. It includes privacy-respecting alternatives for common tools such as file management, document viewing, and media playback, all chosen for their open-source transparency and low data collection.
 
 Whether used for everyday browsing, secure communication, or maintaining digital anonymity, OverPrivacy-OS provides a streamlined environment where privacy comes first.
+-
